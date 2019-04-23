@@ -1,6 +1,6 @@
 package YangGiYeol.Observer;
 
-//간이 그래프로 수를 표시하는 클래스
+//간이 그래프로 수를 표시하는 클래스33
 public class GraphObserver implements Observer {
 
 	@Override
