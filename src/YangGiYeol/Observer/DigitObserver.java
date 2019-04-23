@@ -1,6 +1,6 @@
 package YangGiYeol.Observer;
 
-//숫자로 수를 표시하는 클래스
+//숫자로 수를 표시하는 클래스22
 public class DigitObserver implements Observer {
 
 	@Override
