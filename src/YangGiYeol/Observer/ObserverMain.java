@@ -1,6 +1,6 @@
 package YangGiYeol.Observer;
 
-//동작 테스트용 클래스
+//동작 테스트용 클래스7878
 public class ObserverMain {
 	public static void main(String[] args) {
 		
