@@ -3,7 +3,7 @@ package YangGiYeol.Observer;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-//수를 생성하는 오브젝트를 나타내는 클래스
+//수를 생성하는 오브젝트를 나타내는 클래스444
 public abstract class NumberGenerator {
 	
 	private ArrayList observers = new ArrayList(); //Observer를 저장
