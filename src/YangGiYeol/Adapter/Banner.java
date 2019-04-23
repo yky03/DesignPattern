@@ -1,6 +1,6 @@
 package YangGiYeol.Adapter;
 
-//제공되고 있는것(교류 100볼트)
+//제공되고 있는것2(교류 100볼트)
 public class Banner {
 	private String string;
 	public Banner(String string) {
